@@ -115,9 +115,9 @@
 		<cloudHubDeployment>
 				<uri>https://anypoint.mulesoft.com</uri>
 				<muleVersion>${mule.version}</muleVersion>
-				<username>username</username>
+				<username>yoni3</username>
 				<password>Mayo7882*#*</password>
-				<environment>env</environment>
+				<environment>Sandbox</environment>
 				<applicationName>${appname}</applicationName>
 				<businessGroup>${business}</businessGroup>
 				<workerType>${worker.type}</workerType>
